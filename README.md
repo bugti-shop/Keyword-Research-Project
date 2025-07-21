@@ -107,3 +107,66 @@ The goal was to identify **low-competition, high-traffic keywords** using **SEMr
 We will adopt a **hybrid strategy**, starting with long-tail for fast ranking + building authority, and gradually move toward short-tail keywords.
 
 ---
+
+
+Perfect! Neeche updated version hai jismein **HubSpot** aur **IBM SEO & Content Marketing** certificates bhi add kar diye gaye hain. Ye version fully polished hai — ideal for GitHub, LinkedIn, personal website ya client proposals.
+
+---
+
+## 👨‍💼 About Me – Ghulam Mustafa
+
+I’m **Ghulam Mustafa**, a certified **Performance Marketing Leader** with deep expertise in driving business growth through data-backed digital strategies. I specialize in blending paid advertising, SEO, and analytics to help brands dominate their digital presence and maximize return on investment (ROI).
+
+🔗 **LinkedIn:** [linkedin.com/in/bugti-shop](https://www.linkedin.com/in/bugti-shop)
+📧 **Email:** bugtishop@gmail.com
+📱 **Phone:** +923322215370
+📞 **Whatsapp:** +923101094991
+🏠 **Address:** Bugti Colony Sui Dera Bugti, Balochistan, Pakistan
+---
+
+## 🎯 My Expertise
+
+I help businesses scale profitably by combining **technical insight**, **creative execution**, and **analytical precision**.
+
+### 🔍 Search Engine Optimization (SEO)
+
+* Certified in **SEMrush**, **Ahrefs**, **IBM SEO**, and **HubSpot Content Marketing**
+* Extensive experience with keyword research, content strategies, and backlink audits
+* Hands-on in on-page, off-page, and technical SEO audits
+
+### 📈 Paid Advertising & Performance Campaigns
+
+* **Meta Ads (Facebook/Instagram):** Results-focused campaigns with A/B testing, lookalikes, and retargeting
+* **Google Ads:** Full-funnel campaign strategies (Search, Display, YouTube, Shopping)
+* Strong command of **campaign scaling**, CTR improvement, and ROAS tracking
+
+### 📊 Analytics & Digital Intelligence
+
+* **Google Analytics Certified:** Custom dashboards, event tracking, goal funnels
+* **Adobe Digital Marketing Suite:** Behavioral segmentation, audience insights
+* Deep reporting skills to extract actionable insights from complex data
+
+---
+
+## 🏅 Certifications & Tools
+
+| Platform/Tool                 | Certification Status |
+| ----------------------------- | -------------------- |
+| SEMrush                       | ✅ Certified          |
+| Ahrefs                        | ✅ Certified          |
+| HubSpot Content Marketing     | ✅ Certified          |
+| IBM SEO & Content Marketing   | ✅ Certified          |
+| Google Ads                    | ✅ Certified          |
+| Meta (Facebook/Instagram) Ads | ✅ Certified          |
+| Google Analytics              | ✅ Certified          |
+| Adobe Digital Marketing Suite | ✅ Certified          |
+
+---
+
+## 🚀 What Sets Me Apart?
+
+* I build **performance-first funnels**, not just traffic machines
+* I focus on **conversions, user behavior**, and sustainable growth
+* I bring a **full-stack marketing perspective** — from strategy to execution to optimization
+
+---
